@@ -1,4 +1,7 @@
-const url = "http://localhost:3030/api/bookreactions/";
+
+
+ const url = process.env.REACT_APP_URL;
+
 
 
 
