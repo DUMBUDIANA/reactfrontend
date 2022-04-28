@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 
 
  const url = process.env.REACT_APP_URL;
 
+=======
+// const url = "https://dianadumbu-booksapi-6xpzu7sjmq-uc.a.run.app/api/bookreactions/";
+const url = process.env.REACT_APP_URL;
+>>>>>>> cee092dd116d6ed60c2318338addf7f79eb9045d
 
 
 
